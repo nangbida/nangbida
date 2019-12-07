@@ -1,0 +1,2 @@
+# nangbida
+Start mining
